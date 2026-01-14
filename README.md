@@ -1,12 +1,10 @@
-[Opengur](https://kennyc1012.github.io/Opengur/)
+[OpenImgur](https://Opengurthub.io/OpenImgur/)
 =========
-***NO LONGER UNDER ACTIVE DEVELOPMENT***
+***NO LONGER UNDER DEVELOPMENT***
 
 Open source Imgur Android App
 
-Want to become a beta tester? [Click Here!](https://plus.google.com/u/0/communities/107476382114210885879)
-
-![screenshot](https://github.com/Kennyc1012/Opengur/raw/master/assets/ss1.png)
+![screenshot](https://github.com/skunkkhole/OpenImgur/raw/main/assets.png)
 
 #Features
 - Built in native java
@@ -20,7 +18,7 @@ Want to become a beta tester? [Click Here!](https://plus.google.com/u/0/communit
 - Support for Api 17+
 
 #What's New
-Check the [Changelog](https://github.com/Kennyc1012/Opengur/blob/master/CHANGELOG.MD) for the changes of each version
+Check the [Changelog](https://github.com/skunkkhole/OpenImgur/blob/main/CHANGELOG.MD) for the changes of each version
 
 #Building
 Check out the [wiki](https://github.com/Kennyc1012/Opengur/wiki) for instructions on building Open Imgur

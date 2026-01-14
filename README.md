@@ -4,7 +4,7 @@
 
 Open source Imgur Android App
 
-![screenshot](https://github.com/skunkkhole/OpenImgur/raw/main/assets.png)
+![screenshot](https://github.com/skunkkhole/OpenImgur/raw/main/assets/ss1.png)
 
 #Features
 - Built in native java
